@@ -9,3 +9,11 @@ I understand that mastery takes time and continuous learning, and the 1️⃣0�
 Being part of the VLSI community, I look forward to sharing my journey, learning from others, and celebrating our collective passion for RTL design! Happy learning!🎉"
 
 📎 Here is the list of day-wise RTL Codes:
+
+Day 1 -> Behavioral Modeling Style
+
+Day 2 -> Data Flow Modeling Style
+
+Day 3 -> Gate Level Modeling Style
+
+Day 4 -> Switch Level Modeling Style
