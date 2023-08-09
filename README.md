@@ -10,10 +10,10 @@ Being part of the VLSI community, I look forward to sharing my journey, learning
 
 📎 Here is the list of day-wise RTL Codes:
 
-Day 1 -> Behavioral Modeling Style
+Day 1 -> Gate Level Modeling Style
 
 Day 2 -> Data Flow Modeling Style
 
-Day 3 -> Gate Level Modeling Style
+Day 3 -> Behavioral Modeling Style
 
-Day 4 -> Switch Level Modeling Style
+
