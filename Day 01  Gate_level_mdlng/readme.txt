@@ -8,3 +8,4 @@ On Day 1, our focus is on gate-level modeling using Verilog. We will design and 
 
 Feel free to explore the Verilog files and engage in simulations to strengthen your RTL design skills.
 
+
