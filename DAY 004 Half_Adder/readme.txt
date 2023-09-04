@@ -2,7 +2,7 @@
 
 ## Day 04: Half Adder Modeling Techniques
 
-Welcome to Day 4 of the "100 Days of RTL Challenge"! Today, we'll explore multiple modeling techniques for a half-adder. We'll cover gate-level modeling, data flow modeling, and behavioral modeling.
+Welcome to Day 4 of the "100 Days of RTL Challenge"! Today, I have explored multiple modeling techniques for a half-adder. like gate-level modeling, data flow modeling, and behavioral modeling.
 
 ### Half Adder Modeling
 
