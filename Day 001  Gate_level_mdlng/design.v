@@ -17,4 +17,5 @@ module all_logic_gates(input a, b,
   xnor xn1(xnor_gate,a,b);
   
 endmodule
+
    
