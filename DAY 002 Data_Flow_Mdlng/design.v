@@ -17,4 +17,5 @@ module all_logic_gates_df(input a,b,
   assign xnor_gate = ~(a^b);
   
 endmodule
+
   
